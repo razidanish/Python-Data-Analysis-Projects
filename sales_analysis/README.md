@@ -19,23 +19,12 @@ To analyze historical sales data and identify patterns influencing revenue and p
 
 **Key Findings**
 
--Sales and profit show a clear seasonal pattern, with business performance strengthening significantly in the final quarter of the year, while  early months record relatively lower activity.
--The Technology category stands out as the primary revenue and profit driver, whereas other categories contribute less consistently to overall  performance.
--Revenue generation is highly concentrated in a few major sub-categories such as Phones and Chairs, while smaller sub-categories add only       marginal value.
--Customer segment analysis reveals that the Consumer segment dominates total sales and profit contribution, though profit efficiency differs    across segments.
--Profitability is not uniform across all products and segments; variations in margins suggest that pricing and discount strategies directly     influence overall financial performance.
+1) Sales and profit show a clear seasonal pattern, with business performance strengthening significantly in the final quarter of the year, while  early months record relatively lower activity.
+2) The Technology category stands out as the primary revenue and profit driver, whereas other categories contribute less consistently to overall  performance.
+3) Revenue generation is highly concentrated in a few major sub-categories such as Phones and Chairs, while smaller sub-categories add only       marginal value.
+4) Customer segment analysis reveals that the Consumer segment dominates total sales and profit contribution, though profit efficiency differs    across segments.
+5) Profitability is not uniform across all products and segments; variations in margins suggest that pricing and discount strategies directly     influence overall financial performance.
 
-## Conclusion
+**Conclusion**
 
 The analysis demonstrates strong year-end business momentum supported by high-performing technology products and the Consumer segment. However, uneven profit margins across categories and segments indicate opportunities for optimization. By refining discount policies and focusing on high-margin products, overall profitability and long-term growth can be improved.
-
-
-## Tools and Technologies Used
-
-- Python  
-- Pandas  
-- NumPy  
-- Plotly  
-- Jupyter Notebook  
-
-
